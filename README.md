@@ -4,5 +4,6 @@
 
  > [!NOTE]
 > ### This is a fronted demo project for learn html, css, js
-> Link: 
+> Link:  https://kundanchourasiya.github.io/Parallax-Scrolling-image-css/
  
+![image](https://github.com/user-attachments/assets/1d3fd513-4868-44c9-9108-f8fe0c190e27)
